@@ -1,0 +1,97 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=latex 2020.10.22)  3 FEB 2021 16:31
+entering extended mode
+**./formula.tex
+(formula.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-09-03>
+
+! LaTeX Error: \mathcal allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \mathcal
+            {L}_{\text{match}}\big(y_i,\hat{y}_{\sigma(i)}\big)=-\mathbb{I}_...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \mathcal{L
+              }_{\text{match}}\big(y_i,\hat{y}_{\sigma(i)}\big)=-\mathbb{I}_...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no L in font nullfont!
+! Missing $ inserted.
+<inserted text> 
+                $
+l.1 \mathcal{L}_
+                {\text{match}}\big(y_i,\hat{y}_{\sigma(i)}\big)=-\mathbb{I}_...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1.
+! Undefined control sequence.
+l.1 \mathcal{L}_{\text
+                      {match}}\big(y_i,\hat{y}_{\sigma(i)}\big)=-\mathbb{I}_...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 ...}\big(y_i,\hat{y}_{\sigma(i)}\big)=-\mathbb
+                                                  {I}_{\{c_i\neq\phi\}}\hat{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 ...\neq\phi\}}\hat{p}_{\sigma(i)}(c_i)+\mathbb
+                                                  {I}_{\{c_i\neq\phi\}}\math...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.1 ...thbb{I}_{\{c_i\neq\phi\}}\mathcal{L}_{\text
+                                                  {box}}(b_i,\hat{b}_{\sigma...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+)
+! Emergency stop.
+<*> ./formula.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 20 strings out of 481200
+ 433 string characters out of 2905620
+ 243105 words of memory out of 3000000
+ 15723 multiletter control sequences out of 15000+200000
+ 535088 words of font info for 29 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 18i,6n,15p,236b,56s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
